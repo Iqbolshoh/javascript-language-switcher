@@ -18,12 +18,6 @@ Perfect for static websites and multilingual UI 🔁
 
 ---
 
-## 🧪 Demo
-
-🔗 [Live Preview](https://iqbolshoh.github.io/javascript-language-switcher)
-
----
-
 ## 📁 Folder Structure
 
 ```
