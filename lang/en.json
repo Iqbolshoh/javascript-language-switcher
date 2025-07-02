@@ -14,6 +14,10 @@
     "subtitle": "We create multilingual, modern websites using javascript.",
     "button": "Get Started"
   },
+  "features": {
+    "title": "Why Choose Us?",
+    "desc": "We combine speed, security, and modern technologies to deliver world-class websites."
+  },
   "card": {
     "title": "Fast Development",
     "description": "We build fast, clean javascript applications.",

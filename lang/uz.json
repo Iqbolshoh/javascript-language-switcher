@@ -14,6 +14,10 @@
         "subtitle": "Biz javascript asosida ko‘p tilli, zamonaviy saytlar yaratamiz.",
         "button": "Boshlash"
     },
+    "features": {
+        "title": "Nega aynan biz?",
+        "desc": "Biz tezlik, xavfsizlik va zamonaviy texnologiyalarni uyg‘unlashtirib, yuqori sifatli veb-saytlar yaratamiz."
+    },
     "card": {
         "title": "Tezkor dasturlash",
         "description": "Biz tez va toza javascript ilovalarni yaratamiz.",
