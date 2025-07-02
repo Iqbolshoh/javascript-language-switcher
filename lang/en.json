@@ -1,9 +1,9 @@
 {
   "site": {
-    "title": "Multilingual PHP Website"
+    "title": "Multilingual javascript Website"
   },
   "navbar": {
-    "brand": "MyCompany",
+    "brand": "Language Switcher",
     "home": "Home",
     "about": "About",
     "services": "Services",
@@ -11,12 +11,12 @@
   },
   "hero": {
     "title": "Welcome to our multilingual site!",
-    "subtitle": "We create multilingual, modern websites using PHP.",
+    "subtitle": "We create multilingual, modern websites using javascript.",
     "button": "Get Started"
   },
   "card": {
     "title": "Fast Development",
-    "description": "We build fast, clean PHP applications.",
+    "description": "We build fast, clean javascript applications.",
     "button": "Read More"
   },
   "card2": {

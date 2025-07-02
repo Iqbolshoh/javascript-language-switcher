@@ -1,9 +1,9 @@
 {
     "site": {
-        "title": "Ko‘p tilli PHP veb-sayti"
+        "title": "Ko‘p tilli javascript veb-sayti"
     },
     "navbar": {
-        "brand": "MeningKompaniyam",
+        "brand": "Language Switcher",
         "home": "Bosh sahifa",
         "about": "Biz haqimizda",
         "services": "Xizmatlar",
@@ -11,12 +11,12 @@
     },
     "hero": {
         "title": "Ko‘p tilli saytimizga xush kelibsiz!",
-        "subtitle": "Biz PHP asosida ko‘p tilli, zamonaviy saytlar yaratamiz.",
+        "subtitle": "Biz javascript asosida ko‘p tilli, zamonaviy saytlar yaratamiz.",
         "button": "Boshlash"
     },
     "card": {
         "title": "Tezkor dasturlash",
-        "description": "Biz tez va toza PHP ilovalarni yaratamiz.",
+        "description": "Biz tez va toza javascript ilovalarni yaratamiz.",
         "button": "Batafsil"
     },
     "card2": {
