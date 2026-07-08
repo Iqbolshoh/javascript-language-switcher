@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Load language file and apply
     const loadLang = (lang) => {
-        fetch(`/lang/${lang}.json`)
+        fetch(`./src/lang/${lang}.json`)
             .then(res => res.json())
             .then(data => {
                 translations = data;

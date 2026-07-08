@@ -1,6 +1,6 @@
 {
     "site": {
-        "title": "Ko‘p tilli javascript veb-sayti"
+        "title": "Ko‘p tilli JavaScript veb-sayti"
     },
     "navbar": {
         "brand": "Language Switcher",
@@ -11,7 +11,7 @@
     },
     "hero": {
         "title": "Ko‘p tilli saytimizga xush kelibsiz!",
-        "subtitle": "Biz javascript asosida ko‘p tilli, zamonaviy saytlar yaratamiz.",
+        "subtitle": "Biz JavaScript asosida ko‘p tilli, zamonaviy saytlar yaratamiz.",
         "button": "Boshlash"
     },
     "features": {
@@ -20,7 +20,7 @@
     },
     "card": {
         "title": "Tezkor dasturlash",
-        "description": "Biz tez va toza javascript ilovalarni yaratamiz.",
+        "description": "Biz tez va toza JavaScript ilovalarni yaratamiz.",
         "button": "Batafsil"
     },
     "card2": {

@@ -1,6 +1,6 @@
 {
     "site": {
-        "title": "Многоязычный javascript сайт"
+        "title": "Многоязычный JavaScript сайт"
     },
     "navbar": {
         "brand": "Language Switcher",
@@ -11,7 +11,7 @@
     },
     "hero": {
         "title": "Добро пожаловать на наш многоязычный сайт!",
-        "subtitle": "Мы создаём современные многоязычные сайты на javascript.",
+        "subtitle": "Мы создаём современные многоязычные сайты на JavaScript.",
         "button": "Начать"
     },
     "features": {
@@ -20,7 +20,7 @@
     },
     "card": {
         "title": "Быстрая разработка",
-        "description": "Мы создаём быстрые и чистые javascript-приложения.",
+        "description": "Мы создаём быстрые и чистые JavaScript-приложения.",
         "button": "Подробнее"
     },
     "card2": {
