@@ -1,6 +1,6 @@
 {
     "site": {
-        "title": "Вебсайти бисёрзабонаи javascript"
+        "title": "Вебсайти бисёрзабонаи JavaScript"
     },
     "navbar": {
         "brand": "Language Switcher",
@@ -11,7 +11,7 @@
     },
     "hero": {
         "title": "Хуш омадед ба сомонаи бисёрзабонаи мо!",
-        "subtitle": "Мо сомонаҳои муосиру бисёрзабонро бо истифода аз javascript месозем.",
+        "subtitle": "Мо сомонаҳои муосиру бисёрзабонро бо истифода аз JavaScript месозем.",
         "button": "Оғоз кунед"
     },
     "features": {
@@ -20,7 +20,7 @@
     },
     "card": {
         "title": "Рушди тез",
-        "description": "Мо барномаҳои javascript-ро зуд ва пок месозем.",
+        "description": "Мо барномаҳои JavaScript-ро зуд ва пок месозем.",
         "button": "Бештар хонед"
     },
     "card2": {
